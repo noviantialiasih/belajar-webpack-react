@@ -20,7 +20,7 @@ const divStyle = {
 
 const linkStyle = {
     fontFamily: 'Titillium',
-    color: '#fff'
+    color: '#42a1f5'
 };
 
 const element = (
