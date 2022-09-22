@@ -7,3 +7,12 @@ body {
     font-family: Roboto;
     text-align: center;
 }
+#app div {
+    display: flex;
+    flex-direction: column;
+    float: none;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
